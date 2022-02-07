@@ -1,5 +1,5 @@
 {
-  "name": "node-examples",
+  "name": "examples",
   "version": "1.0.0",
   "description": "Simple Node Examples",
   "main": "index.js",
@@ -8,5 +8,13 @@
     "start": "node index"
   },
   "author": "Mamona Abdullah",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamonaabdullah122/NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mamonaabdullah122/NodeJS/issues"
+  },
+  "homepage": "https://github.com/mamonaabdullah122/NodeJS#readme"
 }
